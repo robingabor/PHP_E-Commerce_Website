@@ -1,0 +1,7 @@
+/* Global classes */ 
+
+button,button:focus{
+    // lets remove the outline on focus
+    outline: none !important;
+    box-shadow: none !important;
+}
